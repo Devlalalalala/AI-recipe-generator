@@ -1,0 +1,134 @@
+{
+    "Pasta": {
+        "ingredients": ["pasta", "tomato sauce", "cheese", "olive oil", "garlic"],
+        "steps": [
+            "Boil pasta until soft.",
+            "Heat olive oil in a pan and add garlic.",
+            "Add tomato sauce and cook for 5 minutes.",
+            "Mix pasta with the sauce and top with cheese.",
+            "Serve hot."
+        ]
+    },
+    "Omelette": {
+        "ingredients": ["eggs", "salt", "pepper", "onion", "cheese"],
+        "steps": [
+            "Beat the eggs with salt and pepper.",
+            "Heat a pan and pour the mixture.",
+            "Add chopped onions and cheese on top.",
+            "Flip and cook both sides.",
+            "Serve warm."
+        ]
+    },
+        
+    "Pasta with Tomato Sauce": {
+        "ingredients": ["pasta", "tomato sauce", "garlic", "olive oil", "salt"],
+        "steps": [
+            "Boil pasta in salted water until tender, then drain.",
+            "Heat olive oil in a pan, add minced garlic, and sauté until fragrant.",
+            "Pour in tomato sauce, season with salt, and let it simmer for 5 minutes.",
+            "Combine the pasta with the sauce, stirring to coat evenly.",
+            "Serve hot, optionally garnishing with fresh herbs or cheese."
+        ]
+    }, 
+    "Fruit Smoothie": {
+        "ingredients": ["banana", "milk", "honey", "strawberries"],
+        "steps": [
+            "Peel and chop the banana and strawberries.",
+            "Add all ingredients (banana, strawberries, milk, honey) into a blender.",
+            "Blend on high speed until smooth and creamy.",
+            "Pour into a glass and serve chilled."
+        ]
+    },
+    "Scrambled Eggs": {
+        "ingredients": ["eggs", "butter", "salt", "pepper"],
+        "steps": [
+            "Crack eggs into a bowl and beat them with salt and pepper.",
+            "Melt butter in a non-stick pan over medium heat.",
+            "Pour the eggs into the pan and let them cook for a few seconds.",
+            "Gently stir the eggs continuously with a spatula.",
+            "Remove from heat when slightly undercooked, as they will continue to cook from residual heat.",
+            "Serve warm with toast or on its own."
+        ]
+    },
+    "Grilled Cheese Sandwich": {
+        "ingredients": ["bread", "cheese", "butter"],
+        "steps": [
+            "Butter one side of each bread slice.",
+            "Place cheese slices between two slices of bread (buttered side facing out).",
+            "Heat a pan over medium heat and place the sandwich in it.",
+            "Cook for 2-3 minutes per side, pressing lightly, until golden brown and cheese melts.",
+            "Remove from heat and serve immediately."
+        ]
+    },
+    "Chicken Salad": {
+        "ingredients": ["chicken", "lettuce", "tomato", "cucumber", "olive oil"],
+        "steps": [
+            "Cook and chop chicken into small pieces.",
+            "Chop vegetables (lettuce, tomato, cucumber) into bite-sized pieces.",
+            "Toss chicken and vegetables together in a bowl.",
+            "Drizzle with olive oil, mix well, and serve chilled."
+        ]
+    },
+    "Omelette": {
+        "ingredients": ["eggs", "salt", "butter"],
+        "steps": [
+            "Crack eggs into a bowl and beat them with salt.",
+            "Heat butter in a pan over medium heat.",
+            "Pour the eggs into the pan and let them cook undisturbed.",
+            "Add optional ingredients (like cheese or onions) on top.",
+            "Flip the omelette carefully and cook for another minute.",
+            "Slide onto a plate and serve warm."
+        ]
+    },
+    "Salad": {
+        "ingredients": ["lettuce", "tomato", "cucumber", "olive oil"],
+        "steps": [
+            "Wash and chop vegetables (lettuce, tomato, cucumber).",
+            "Toss all ingredients together in a bowl.",
+            "Drizzle with olive oil, season with salt and pepper.",
+            "Serve fresh as a side dish or main course."
+        ]
+    },
+    "Pancakes": {
+        "ingredients": ["flour", "milk", "egg", "butter", "sugar"],
+        "steps": [
+            "In a bowl, mix flour, sugar, and a pinch of salt.",
+            "In another bowl, beat eggs and add milk.",
+            "Combine the wet and dry ingredients, stirring to remove lumps.",
+            "Heat a pan and add butter, then pour a ladle of batter onto it.",
+            "Cook until bubbles form, then flip and cook the other side.",
+            "Serve warm with syrup or toppings of choice."
+        ]
+    },
+    "Spaghetti Carbonara": {
+        "ingredients": ["spaghetti", "egg", "cheese", "bacon"],
+        "steps": [
+            "Cook spaghetti in salted boiling water and drain, reserving some pasta water.",
+            "In a bowl, whisk eggs and mix with grated cheese.",
+            "Cook chopped bacon in a pan until crispy.",
+            "Toss hot spaghetti with the bacon, then quickly mix in the egg-cheese mixture.",
+            "Add reserved pasta water if needed to create a creamy sauce.",
+            "Serve immediately with extra cheese on top."
+        ]
+    },
+    "Garlic Bread": {
+        "ingredients": ["bread", "butter", "garlic", "parsley"],
+        "steps": [
+            "Preheat oven to 180°C (350°F).",
+            "Mix melted butter with minced garlic and chopped parsley.",
+            "Spread the garlic butter mixture onto slices of bread.",
+            "Place the bread on a baking tray and bake for 10 minutes.",
+            "Serve warm as a side dish or snack."
+        ]
+    },
+    "French Toast": {
+        "ingredients": ["bread", "egg", "milk", "sugar"],
+        "steps": [
+            "In a bowl, whisk eggs, milk, and sugar together.",
+            "Dip each slice of bread into the mixture, coating both sides.",
+            "Heat a pan with butter and cook each slice until golden brown on both sides.",
+            "Serve warm with syrup or powdered sugar."
+        ]
+    }
+
+}
